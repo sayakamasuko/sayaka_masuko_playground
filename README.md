@@ -1,2 +1,3 @@
-# sayaka_masuko_playground
+# Sayaka's Playground
+
 this is my repo
